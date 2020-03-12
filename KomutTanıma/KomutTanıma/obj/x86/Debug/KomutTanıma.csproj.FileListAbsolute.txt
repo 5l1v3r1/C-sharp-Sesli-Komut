@@ -1,0 +1,90 @@
+c:\users\dangerousman32\documents\visual studio 2010\Projects\KomutTanıma\KomutTanıma\bin\Debug\KomutTanıma.exe
+c:\users\dangerousman32\documents\visual studio 2010\Projects\KomutTanıma\KomutTanıma\bin\Debug\KomutTanıma.pdb
+c:\users\dangerousman32\documents\visual studio 2010\Projects\KomutTanıma\KomutTanıma\obj\x86\Debug\ResolveAssemblyReference.cache
+c:\users\dangerousman32\documents\visual studio 2010\Projects\KomutTanıma\KomutTanıma\obj\x86\Debug\Interop.SpeechLib.dll
+c:\users\dangerousman32\documents\visual studio 2010\Projects\KomutTanıma\KomutTanıma\obj\x86\Debug\KomutTanıma.csproj.ResolveComReference.cache
+c:\users\dangerousman32\documents\visual studio 2010\Projects\KomutTanıma\KomutTanıma\obj\x86\Debug\KomutTanıma.Form1.resources
+c:\users\dangerousman32\documents\visual studio 2010\Projects\KomutTanıma\KomutTanıma\obj\x86\Debug\KomutTanıma.Properties.Resources.resources
+c:\users\dangerousman32\documents\visual studio 2010\Projects\KomutTanıma\KomutTanıma\obj\x86\Debug\GenerateResource.read.1.tlog
+c:\users\dangerousman32\documents\visual studio 2010\Projects\KomutTanıma\KomutTanıma\obj\x86\Debug\GenerateResource.write.1.tlog
+c:\users\dangerousman32\documents\visual studio 2010\Projects\KomutTanıma\KomutTanıma\obj\x86\Debug\KomutTanıma.exe
+c:\users\dangerousman32\documents\visual studio 2010\Projects\KomutTanıma\KomutTanıma\obj\x86\Debug\KomutTanıma.pdb
+C:\Users\DangerOusMaN32\Desktop\KomutTanıma\KomutTanıma\obj\x86\Debug\Interop.SpeechLib.dll
+C:\Users\DangerOusMaN32\Desktop\KomutTanıma\KomutTanıma\obj\x86\Debug\KomutTanıma.csproj.ResolveComReference.cache
+C:\Users\DangerOusMaN32\Desktop\KomutTanıma\KomutTanıma\obj\x86\Debug\KomutTanıma.exe
+C:\Users\DangerOusMaN32\Desktop\KomutTanıma\KomutTanıma\obj\x86\Debug\KomutTanıma.pdb
+C:\Users\DangerOusMaN32\Desktop\KomutTanıma\KomutTanıma\bin\Debug\KomutTanıma.exe
+C:\Users\DangerOusMaN32\Desktop\KomutTanıma\KomutTanıma\bin\Debug\KomutTanıma.pdb
+C:\Users\DangerOusMaN32\Desktop\KomutTanıma\KomutTanıma\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\DangerOusMaN32\Desktop\KomutTanıma\KomutTanıma\obj\x86\Debug\KomutTanıma.Form1.resources
+C:\Users\DangerOusMaN32\Desktop\KomutTanıma\KomutTanıma\obj\x86\Debug\KomutTanıma.Properties.Resources.resources
+C:\Users\DangerOusMaN32\Desktop\KomutTanıma\KomutTanıma\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\DangerOusMaN32\Desktop\KomutTanıma\KomutTanıma\obj\x86\Debug\GenerateResource.write.1.tlog
+D:\Dosyalar\KomutTanıma\KomutTanıma\obj\x86\Debug\Interop.SpeechLib.dll
+D:\Dosyalar\KomutTanıma\KomutTanıma\obj\x86\Debug\KomutTanıma.csproj.ResolveComReference.cache
+D:\Dosyalar\KomutTanıma\KomutTanıma\obj\x86\Debug\KomutTanıma.pdb
+D:\Dosyalar\KomutTanıma\KomutTanıma\bin\Debug\KomutTanıma.exe
+D:\Dosyalar\KomutTanıma\KomutTanıma\bin\Debug\KomutTanıma.pdb
+D:\Dosyalar\KomutTanıma\KomutTanıma\obj\x86\Debug\ResolveAssemblyReference.cache
+D:\Dosyalar\KomutTanıma\KomutTanıma\obj\x86\Debug\KomutTanıma.Form1.resources
+D:\Dosyalar\KomutTanıma\KomutTanıma\obj\x86\Debug\KomutTanıma.Properties.Resources.resources
+D:\Dosyalar\KomutTanıma\KomutTanıma\obj\x86\Debug\GenerateResource.read.1.tlog
+D:\Dosyalar\KomutTanıma\KomutTanıma\obj\x86\Debug\GenerateResource.write.1.tlog
+D:\Dosyalar\KomutTanıma\KomutTanıma\obj\x86\Debug\KomutTanıma.exe
+I:\Dosyalar\KomutTanıma\KomutTanıma\obj\x86\Debug\Interop.SpeechLib.dll
+I:\Dosyalar\KomutTanıma\KomutTanıma\obj\x86\Debug\KomutTanıma.csproj.ResolveComReference.cache
+I:\Dosyalar\KomutTanıma\KomutTanıma\obj\x86\Debug\KomutTanıma.exe
+I:\Dosyalar\KomutTanıma\KomutTanıma\obj\x86\Debug\KomutTanıma.pdb
+I:\Dosyalar\KomutTanıma\KomutTanıma\bin\Debug\KomutTanıma.exe
+I:\Dosyalar\KomutTanıma\KomutTanıma\bin\Debug\KomutTanıma.pdb
+I:\Dosyalar\KomutTanıma\KomutTanıma\obj\x86\Debug\KomutTanıma.Form1.resources
+I:\Dosyalar\KomutTanıma\KomutTanıma\obj\x86\Debug\KomutTanıma.Properties.Resources.resources
+I:\Dosyalar\KomutTanıma\KomutTanıma\obj\x86\Debug\KomutTanıma.csproj.GenerateResource.Cache
+C:\Users\_DangerOusMaN\Desktop\KomutTanıma\KomutTanıma\obj\x86\Debug\Interop.SpeechLib.dll
+C:\Users\_DangerOusMaN\Desktop\KomutTanıma\KomutTanıma\obj\x86\Debug\KomutTanıma.csproj.ResolveComReference.cache
+C:\Users\_DangerOusMaN\Desktop\KomutTanıma\KomutTanıma\obj\x86\Debug\KomutTanıma.exe
+C:\Users\_DangerOusMaN\Desktop\KomutTanıma\KomutTanıma\obj\x86\Debug\KomutTanıma.pdb
+C:\Users\_DangerOusMaN\Desktop\KomutTanıma\KomutTanıma\bin\Debug\KomutTanıma.exe
+C:\Users\_DangerOusMaN\Desktop\KomutTanıma\KomutTanıma\bin\Debug\KomutTanıma.pdb
+C:\Users\_DangerOusMaN\Desktop\KomutTanıma\KomutTanıma\obj\x86\Debug\KomutTanıma.Form1.resources
+C:\Users\_DangerOusMaN\Desktop\KomutTanıma\KomutTanıma\obj\x86\Debug\KomutTanıma.Properties.Resources.resources
+C:\Users\_DangerOusMaN\Desktop\KomutTanıma\KomutTanıma\obj\x86\Debug\KomutTanıma.csproj.GenerateResource.Cache
+C:\Users\_DangerOusMaN\Desktop\KomutTanıma\KomutTanıma\obj\x86\Debug\KomutTanıma.csprojResolveAssemblyReference.cache
+C:\Users\_DangerOusMaN\Desktop\KomutTanıma\KomutTanıma\bin\Debug\KomutTanıma.exe.config
+E:\Programlarım\C#\Kendi Yaptıklarım\KomutTanıma\KomutTanıma\bin\Debug\KomutTanıma.exe.config
+E:\Programlarım\C#\Kendi Yaptıklarım\KomutTanıma\KomutTanıma\obj\x86\Debug\Interop.SpeechLib.dll
+E:\Programlarım\C#\Kendi Yaptıklarım\KomutTanıma\KomutTanıma\obj\x86\Debug\KomutTanıma.csproj.ResolveComReference.cache
+E:\Programlarım\C#\Kendi Yaptıklarım\KomutTanıma\KomutTanıma\obj\x86\Debug\KomutTanıma.exe
+C:\Users\DangerOusMaN\Desktop\Programlarım\C#\Kendi Yaptıklarım\KomutTanıma\KomutTanıma\bin\Debug\KomutTanıma.exe.config
+C:\Users\DangerOusMaN\Desktop\Programlarım\C#\Kendi Yaptıklarım\KomutTanıma\KomutTanıma\obj\x86\Debug\Interop.SpeechLib.dll
+C:\Users\DangerOusMaN\Desktop\Programlarım\C#\Kendi Yaptıklarım\KomutTanıma\KomutTanıma\obj\x86\Debug\KomutTanıma.csproj.ResolveComReference.cache
+C:\Users\DangerOusMaN\Desktop\Programlarım\C#\Kendi Yaptıklarım\KomutTanıma\KomutTanıma\obj\x86\Debug\KomutTanıma.exe
+D:\Programlarım\C#\Kendi Yaptıklarım\KomutTanıma\KomutTanıma\bin\Debug\KomutTanıma.exe.config
+D:\Programlarım\C#\Kendi Yaptıklarım\KomutTanıma\KomutTanıma\obj\x86\Debug\Interop.SpeechLib.dll
+D:\Programlarım\C#\Kendi Yaptıklarım\KomutTanıma\KomutTanıma\obj\x86\Debug\KomutTanıma.csproj.ResolveComReference.cache
+D:\Programlarım\C#\Kendi Yaptıklarım\KomutTanıma\KomutTanıma\obj\x86\Debug\KomutTanıma.exe
+D:\Programlarım\C#\Kendi Yaptıklarım\KomutTanıma\KomutTanıma\obj\x86\Debug\ResolveAssemblyReference.cache
+D:\Programlarım\C#\Kendi Yaptıklarım\KomutTanıma\KomutTanıma\obj\x86\Debug\KomutTanıma.Form1.resources
+D:\Programlarım\C#\Kendi Yaptıklarım\KomutTanıma\KomutTanıma\obj\x86\Debug\KomutTanıma.Properties.Resources.resources
+D:\Programlarım\C#\Kendi Yaptıklarım\KomutTanıma\KomutTanıma\obj\x86\Debug\GenerateResource.read.1.tlog
+D:\Programlarım\C#\Kendi Yaptıklarım\KomutTanıma\KomutTanıma\obj\x86\Debug\GenerateResource.write.1.tlog
+F:\Programlarım\C#\Kendi Yaptıklarım\KomutTanıma\KomutTanıma\bin\Debug\KomutTanıma.exe.config
+F:\Programlarım\C#\Kendi Yaptıklarım\KomutTanıma\KomutTanıma\obj\x86\Debug\KomutTanıma.exe
+F:\Programlarım\C#\Kendi Yaptıklarım\KomutTanıma\KomutTanıma\obj\x86\Debug\ResolveAssemblyReference.cache
+F:\Programlarım\C#\Kendi Yaptıklarım\KomutTanıma\KomutTanıma\obj\x86\Debug\KomutTanıma.Form1.resources
+F:\Programlarım\C#\Kendi Yaptıklarım\KomutTanıma\KomutTanıma\obj\x86\Debug\KomutTanıma.Properties.Resources.resources
+F:\Programlarım\C#\Kendi Yaptıklarım\KomutTanıma\KomutTanıma\obj\x86\Debug\GenerateResource.read.1.tlog
+F:\Programlarım\C#\Kendi Yaptıklarım\KomutTanıma\KomutTanıma\obj\x86\Debug\GenerateResource.write.1.tlog
+F:\Programlarım\C#\Kendi Yaptıklarım\KomutTanıma\KomutTanıma\bin\Debug\KomutTanıma.exe
+F:\Programlarım\C#\Kendi Yaptıklarım\KomutTanıma\KomutTanıma\bin\Debug\KomutTanıma.pdb
+F:\Programlarım\C#\Kendi Yaptıklarım\KomutTanıma\KomutTanıma\obj\x86\Debug\KomutTanıma.pdb
+F:\Programlarım\C#\Kendi Yaptıklarım\KomutTanıma\KomutTanıma\obj\x86\Debug\Interop.SpeechLib.dll
+F:\Programlarım\C#\Kendi Yaptıklarım\KomutTanıma\KomutTanıma\obj\x86\Debug\KomutTanıma.csproj.ResolveComReference.cache
+F:\Programlarım\C#\Kendi Yaptıklarım\KomutTanıma\KomutTanıma\obj\x86\Debug\GenerateResource-ResGen.read.1.tlog
+F:\Programlarım\C#\Kendi Yaptıklarım\KomutTanıma\KomutTanıma\obj\x86\Debug\GenerateResource-ResGen.write.1.tlog
+F:\Programlarım\C#\Kendi Yaptıklarım\KomutTanıma\KomutTanıma\bin\Debug\Interop.SpeechLib.dll
+D:\VB6 - C# Projelerim\PROJELERİM ESKİ\c#\KomutTanıma\KomutTanıma\bin\Debug\KomutTanıma.exe.config
+D:\VB6 - C# Projelerim\PROJELERİM ESKİ\c#\KomutTanıma\KomutTanıma\obj\x86\Debug\Interop.SpeechLib.dll
+D:\VB6 - C# Projelerim\PROJELERİM ESKİ\c#\KomutTanıma\KomutTanıma\obj\x86\Debug\KomutTanıma.csproj.ResolveComReference.cache
+D:\VB6 - C# Projelerim\PROJELERİM ESKİ\c#\KomutTanıma\KomutTanıma\obj\x86\Debug\KomutTanıma.exe
+D:\VB6 - C# Projelerim\PROJELERİM ESKİ\c#\KomutTanıma\KomutTanıma\obj\x86\Debug\KomutTanıma.pdb
